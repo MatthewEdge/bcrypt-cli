@@ -2,6 +2,8 @@
 
 Small utility to enable bcrypt from the CLI
 
+If using zsh the `install.sh` script will build the binary and install an entry to your PATH
+
 ## Usage
 
 `bcrypt -help` to see flags
